@@ -1,5 +1,4 @@
 ﻿# WAD-homework1
-Home work 1
 ===========
 A clean profile page
 
