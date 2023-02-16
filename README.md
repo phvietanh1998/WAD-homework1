@@ -1,5 +1,5 @@
 ﻿# WAD-homework1
-===========
+
 A clean profile page
 
 * `/` - index page, redirect to `/profile`
